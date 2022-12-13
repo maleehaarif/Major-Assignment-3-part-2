@@ -1,0 +1,15 @@
+circle{
+    fill-opacity: .9;
+    fill:red;
+}
+line{
+    stroke:blue;
+    stroke-opacity:0.6;
+}
+.label{
+    font-size: x-small;
+    font-family: 'Times New Roman', Times, serif;
+}
+.inactive{
+    opacity: .1;
+}
